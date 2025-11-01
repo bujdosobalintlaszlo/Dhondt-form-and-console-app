@@ -1,5 +1,4 @@
-# Dhondt .NET app
-#Projects goal
+# Projects goal
 In school we needed to implemet a system from the real world which involved a system with visualizable data. So we chose D’Hondt which is tied to the Europian parlament. Previously we wrote a console app for this
 so this task wasn't just about problemsolving but refactoring too. Fortunatelly we took this task with ease and got a 100% for our project.
 
@@ -8,6 +7,11 @@ When we developed this application, we had already worked as a team before.
 We knew each other’s strengths and weaknesses, which made collaboration and problem-solving much easier.
 For communication, we used Discord, and for task tracking, a shared Google Drive spreadsheet.
 This allowed us to organize tasks, monitor deadlines, and stay on track efficiently.
+
+# Code structure
+From the beginning, we already had a well-defined structure that didn’t change much from the previous version of the project.
+Our main goal was to design it using object-oriented programming (OOP) principles, ensuring that the system remains cohesive, maintainable, and extendable — even years later, every part would still make sense and fit together naturally.
+A special aspect of this project is that we made extensive use of LINQ, as we wanted to explore its capabilities and write clean, expressive, and efficient code.
 
 # Features of the app:
 (The app was mainly written to bigger screens with 16:9,16:10 aspect ratios, since there wasn't any restrictions regading that and the used platform (forms) wasn't really suted for that. Also the application is in my native language.)
@@ -49,5 +53,6 @@ Step by step guide for the 1. option:
 Step by step for the second one:
 1. Press on "generalas", and you will be able to set your own values between the bounds which the application has:
 <img width="558" height="254" alt="image" src="https://github.com/user-attachments/assets/c38f5a95-88d2-4db4-9e30-d5a2b8f7dda3" />
+
 2. Press "Generalas" and it will be displayed.
 
