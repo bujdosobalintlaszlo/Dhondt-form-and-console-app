@@ -27,3 +27,27 @@ A “Szavazatai arány” (Vote Ratio) chart showing the ratio of votes among pa
 A bar chart displaying the total number of votes received by each party.
 Example:
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/36363d86-b20e-41a6-9441-f2d910fe1e0e" />
+
+# How to use the app?
+Guide to pull the repository:
+Into the cmd:
+```
+git init
+git remote add origin https://github.com/bujdosobalintlaszlo/Dhondt_dot_NET_app
+git checkout -b main
+git pull origin main
+```
+Here you will find an .exe which you can run.
+The app it self has 2 modes.
+- You can use your own txt-s (which I provided in the repository or you can create your own based on those).
+- You can generate one in the app with the generate button.
+Step by step guide for the 1. option:
+1. Press on file kivalasztasa
+2. From the repositorys folder choose a .txt
+3. After that you need to press ok, and it will display.
+4. If you want to clear the app, simply press "torles".
+Step by step for the second one:
+1. Press on "generalas", and you will be able to set your own values between the bounds which the application has:
+<img width="558" height="254" alt="image" src="https://github.com/user-attachments/assets/c38f5a95-88d2-4db4-9e30-d5a2b8f7dda3" />
+2. Press "Generalas" and it will be displayed.
+
