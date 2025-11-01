@@ -10,8 +10,8 @@ This allowed us to organize tasks, monitor deadlines, and stay on track efficien
 
 # Code structure
 From the beginning, we already had a well-defined structure that didn’t change much from the previous version of the project.
-Our main goal was to design it using object-oriented programming (OOP) principles, ensuring that the system remains cohesive, maintainable, and extendable — even years later, every part would still make sense and fit together naturally.
-A special aspect of this project is that we made extensive use of LINQ, as we wanted to explore its capabilities and write clean, expressive, and efficient code.
+Our main goal was to design it using object-oriented programming (OOP) principles, ensuring that the system remains cohesive, maintainable, and extendable, even years later, every part would still make sense and fit together naturally.
+A special aspect of this project is that we made extensive use of LINQ, as we wanted to explore its capabilities and write clean, expressive, and efficient code.We also added comments and XML summaries throughout the project to make it easier to understand each class’s or function’s purpose during future development or maintenance.
 
 # Features of the app:
 (The app was mainly written to bigger screens with 16:9,16:10 aspect ratios, since there wasn't any restrictions regading that and the used platform (forms) wasn't really suted for that. Also the application is in my native language.)
