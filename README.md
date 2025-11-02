@@ -21,7 +21,7 @@ Our main goal was to design it using object-oriented programming (OOP) principle
 A special aspect of this project is that we made extensive use of LINQ, as we wanted to explore its capabilities and write clean, expressive, and efficient code.We also added comments and XML summaries throughout the project to make it easier to understand each class’s or function’s purpose during future development or maintenance.
 
 # Features of the app:
-(The app was mainly written to bigger screens with 16:9,16:10 aspect ratios, since there wasn't any restrictions regading that and the used platform (forms) wasn't really suted for that. Also the application is in my native language.)
+(The app was mainly written to bigger screens (23,5 inch - ...) with 16:9,16:10 aspect ratios, since there wasn't any restrictions regading that and the used platform (forms) wasn't really suted for that. Also the application is in my native language.)
 <img width="1914" height="1029" alt="image" src="https://github.com/user-attachments/assets/69c989e5-9923-4430-af46-63cce61ba58d" />
 The aplication is able to display:
 - Number of votes
